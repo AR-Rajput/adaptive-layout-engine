@@ -1,5 +1,10 @@
 # Adaptive Layout Engine for Multi-Surface Ads
 
+## Links
+
+- **Live Demo:** https://frabjous-gumption-4d8fef.netlify.app/
+- **GitHub Repository:** https://github.com/AR-Rajput/adaptive-layout-engine
+
 A constraint-driven layout engine that dynamically resolves the position, size, visibility, and degradation of advertisement elements for different display surfaces.
 
 The same advertisement specification is passed to a generic constraint resolver along with the target surface constraints. The resolver produces a valid layout without requiring surface-specific layout logic.
